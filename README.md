@@ -1,6 +1,6 @@
-# Holy Grail Layout using CSS Flexbox in Angular
+# Holy Grail Layout using Angular FlexLayout in Angular
 
-This is a bare bone Holy Grail Layout using CSS Flexbox  Angular website.
+This is a bare bone Holy Grail Layout using Angular FlexLayout for Angular website.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1
 
@@ -20,6 +20,7 @@ Library | Version | Notes
 [NPM](https://nodejs.org/) |6.4.1 | Recommended NPM version
 [Angular](https://angular.io/) | ~7.2.x | JavaScript-based open-source front-end SPA framework
 [Angular CLI](https://github.com/angular/angular-cli) | 7.3.1 | Set of development tools for Angular
+[Angular Flex-layout](https://github.com/angular/flex-layout) | 7.0.0-beta.23 | Provides a sophisticated layout API using Flexbox CSS + mediaQuery for Angular applications
 
 ## Quick Start
 
