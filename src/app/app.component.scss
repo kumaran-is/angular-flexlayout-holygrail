@@ -21,8 +21,6 @@ html, body, .viewport {
 
 /* container for the page layout */
 .container {
- display:flex;
- flex-direction: column;
  min-height: 100vh;
  position: absolute;
  top: 0;
@@ -33,9 +31,6 @@ html, body, .viewport {
 
 /* main content of page which has 3 horizontal sections - nav, article and nav */
 main {
-  display:flex;
-  flex-direction: row;
-  flex: 1 0 auto;
   padding-top: 80px;
 }
 
