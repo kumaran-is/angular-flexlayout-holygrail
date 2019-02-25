@@ -76,23 +76,3 @@ footer {
   max-height: 150px;
   min-height: 150px;
 }
-
-/* middle section of main content, width is 5 times greater than 2 side sections - aside & nave sections*/
-.content {
-  flex: 5 0 auto;
-}
-
-/* side sections of main content - aside & nave sections*/
-aside, nav {
-  flex: 1 0 auto;
-}
-
-nav {
-  order: -1;
-}
-
-@media (max-width: 700px) {
-  main{
-    flex-direction: column;
-  }
-}
