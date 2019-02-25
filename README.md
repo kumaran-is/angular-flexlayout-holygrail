@@ -1,6 +1,6 @@
 # Holy Grail Layout using Angular FlexLayout in Angular
 
-This is a bare bone Holy Grail Layout using Angular FlexLayout for Angular website.
+This is a bare bone Holy Grail Layout using Angular Flex-Layout for Angular website.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1
 

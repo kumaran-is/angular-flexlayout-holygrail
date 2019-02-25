@@ -7,7 +7,7 @@
 #### Features
 * Initial project structure generated  with  [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1 
 
-* Added Holy Grail Layout using Angular FlexLayout for Angular website
+* Added Holy Grail Layout using [Angular FlexLayout API](https://github.com/angular/flex-layout) for Angular website
 
 #### Breaking Changes
 * NA
