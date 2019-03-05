@@ -106,7 +106,7 @@ Using [angular-cli-ghpages](https://www.npmjs.com/package/angular-cli-ghpages) l
       ....
       .....
       "prod-build": "ng build --prod --base-href=./",
-      "git-publish": "npm run prod-build && npx angular-cli-ghpages --dir=dist/angular-flexlayout-standard --branch=gh-pages"
+      "git-publish": "npm run prod-build && npx angular-cli-ghpages --dir=dist/angular-flexlayout-holygrail --branch=gh-pages"
     }
     ```
 
@@ -118,7 +118,7 @@ Branch `gh-pages` act as a staging folder for deployment.
     npm run git-publish
     ```
 
-1. Launch your application on browser by navigating to `https://username.github.io/repo-name/`. Example to launch this application click this link <https://kumaran-is.github.io/angular-flexlayout-standard>
+1. Launch your application on browser by navigating to `https://username.github.io/repo-name/`. Example to launch this application click this link <https://kumaran-is.github.io/angular-flexlayout-holygrail>
 
 1. For more detail and options, refer the official [angular-cli-ghpages](https://www.npmjs.com/package/angular-cli-ghpages) github.
 
